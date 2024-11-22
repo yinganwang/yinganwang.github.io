@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/bio_pic.jpg
 importance: 1
 category: work
 related_publications: true
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/bio_pic.jpg
     ---
 
 <div class="row">

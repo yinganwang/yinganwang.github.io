@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: bio_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>San Francisco, California</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
+👋 Hi there! I’m a fullstack software engineer passionate about solving unanswered questions and building things from 0 to 1. Over the past 3 years, I have worked at various fast-paced, early-stage AI startups. Currently, I’m a founding engineer at [Flagship](https://about.flagship.shop/), an e-commerce startup backed by Sequoia Capital, where I build machine learning-powered recommendation systems to help influencers discover and sell tailored products.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My work focuses on using machine learning and LLMs to create elegant, impactful AI products that empower informed decision-making and facilitate knowledge acquisition, with applications across business operations, education, and e-commerce. I aim to advance human decision-making and knowledge acquisition through emerging AI technologies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of tech, I perform stand-up comedy regularly and occasionally dabble in improv comedy and arts. As a creative myself, I am also interested in unleashing human creativity with human-computer interaction (HCI).
