@@ -10,6 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>San Francisco, California</p>
+    <p><a href="mailto:yingantheawang@gmail.com">[Email]</a></p>
+    <p><a href="https://github.com/yinganwang" target="_blank">[GitHub]</a></p>
+    <p><a href="assets/pdf/cv.pdf" target="_blank">[CV]</a></p>
+
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
